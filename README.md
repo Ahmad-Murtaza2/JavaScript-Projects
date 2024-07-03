@@ -34,6 +34,8 @@ Welcome to the To-Do List project! This repository contains a simple yet effecti
 - **Persistent Data**: Tasks are saved in the browser's local storage, so they persist between sessions.
 - **Responsive Design**: The application adjusts smoothly across various screen sizes.
 
+![Screenshot (99)](https://github.com/Ahmad-Murtaza2/JavaScript-Projects/assets/142945526/938c7d7c-4678-4f85-a7ff-674e00b0a9fe)
+
 # 3)Weather App
 
 ## Description
@@ -56,4 +58,5 @@ A simple weather application that allows users to search for current weather inf
 - **CSS3**: For styling the application and elements.
 - **JavaScript**: For application logic and interactivity.
 
-![Screenshot (99)](https://github.com/Ahmad-Murtaza2/JavaScript-Projects/assets/142945526/938c7d7c-4678-4f85-a7ff-674e00b0a9fe)
+![Screenshot (101)](https://github.com/Ahmad-Murtaza2/JavaScript-Projects/assets/142945526/b712231e-94b3-4b6c-8dec-319ba2e01a09)
+
