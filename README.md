@@ -34,6 +34,22 @@ Welcome to the To-Do List project! This repository contains a simple yet effecti
 - **Persistent Data**: Tasks are saved in the browser's local storage, so they persist between sessions.
 - **Responsive Design**: The application adjusts smoothly across various screen sizes.
 
+# 3)Weather App
+
+## Description
+A simple weather application that allows users to search for current weather information by city name. It displays the temperature, humidity, wind speed, and a weather icon that represents the current weather condition.
+
+## Features
+- **City Search:** Enter a city name to retrieve weather data.
+- **Current Weather Information:** Shows temperature, humidity, and wind speed.
+- **Weather Icon:** Displays an icon that visually represents the current weather.
+
+## Technologies Used
+- **HTML:** For structuring the application.
+- **CSS:** For styling and layout.
+- **JavaScript:** For dynamic data fetching and DOM manipulation.
+- **OpenWeatherMap API:** Provides real-time weather data.
+
 ## Technologies Used
 
 - **HTML5**: For structuring the application layout.
